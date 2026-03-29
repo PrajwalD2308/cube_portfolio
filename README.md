@@ -34,11 +34,15 @@ The website features a fully interactive **3D Rubik’s Cube**, smooth animation
 
 The portfolio includes the following sections:
 
-- **Hero** – Introduction and interactive cube  
-- **About** – Developer background and statistics  
-- **Skills** – Technology stack visualization  
-- **Projects** – Featured work showcase  
-- **Contact** – Contact form
+- **Hero** – Introduction with interactive 3D cube and dynamic text  
+- **About** – Developer background, stats, and resume access  
+- **Skills** – Tech stack with animated visualization  
+- **Timeline** – Learning journey and experience progression  
+- **Projects** – 3D flip cards showcasing real-world work with live demos  
+- **Testimonials** – Client feedback and social proof  
+- **Services** – Interactive service offerings with animated cards  
+- **Blog** – Insights, articles, and modal-based reading experience  
+- **Contact** – Contact form with WhatsApp & Email integration
 
 ---
 
@@ -57,4 +61,4 @@ The portfolio includes the following sections:
 Clone the repository:
 
 ```bash
-git clone https://github.com/Brahmpreett/rubikscube.git
+git clone https://github.com/PrajwalD2308/cube_portfolio.git
